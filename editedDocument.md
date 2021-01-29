@@ -14,7 +14,7 @@ There are many different Documentation services available
 2. React-docgen
 3. React-styleguidist
 4. Docz
-![Image](https://miro.medium.com/max/4796/1*Zb4LIvYGq0A_lslZI3pN2Q.png)
+![Image](https://raw.githubusercontent.com/nitinvarda/Styleguidist-Doc/master/download.png)
 
 
 <h4>Considerations :</h4>
